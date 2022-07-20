@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <!-- 내부 저장소 -->
+    <files-path
+        name="files"
+        path="." />
+</paths>
